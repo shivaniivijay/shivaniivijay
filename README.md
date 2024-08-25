@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivaniivijay
-- 🌱 I'm currently a student learning web development and programming.
-- 😄 Pronouns: she/her
+  > **🍀I'm currently a student learning web development and programming.**
+
 
  
 ## 🛠️ Tech Stack - Learning
