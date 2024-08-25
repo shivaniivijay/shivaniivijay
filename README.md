@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer programming..
 - 😄 Pronouns: she/her
 
-
+![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaniivijay&show_icons=true&theme=transparent)
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivaniivijay&show_icons=true&theme=radical)
 
