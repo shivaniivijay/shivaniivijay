@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivaniivijay
+## Hi there, I'm Shivani Vijay 👋
   > **🍀I'm currently a student learning web development and programming.**
 
 
