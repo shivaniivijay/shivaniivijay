@@ -1,6 +1,7 @@
 ## Hey, I'm Shivani Vijay 👋
 
 > _Currently a student diving into web development and programming._ 👩🏻‍💻
+ 
 > **Eager to build new skills and take on exciting projects!** ✨
  
 ## 🛠️ Tech Stack - Learning
