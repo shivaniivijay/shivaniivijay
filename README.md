@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivaniivijay
 - 🌱 I'm currently a student learning web development and programming.
 - 😄 Pronouns: she/her
-> **Hello, my name is [Your Name], and I'm a backend developer.**
+
  
 ## 🛠️ Tech Stack - Learning
 
