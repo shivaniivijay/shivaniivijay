@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning computer programming..
 - 😄 Pronouns: she/her
 
+  
+## 📈 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaniivijay&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaniivijay&hide_progress=true)
+
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivaniivijay&show_icons=true&theme=radical)
 
