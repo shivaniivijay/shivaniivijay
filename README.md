@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning computer programming..
 - 😄 Pronouns: she/her
 
-[![GitHub Streak](https://streak-stats.demolab.com/?shivaniivijay=DenverCoder1)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shivaniivijay&theme=radical)
+
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivaniivijay&show_icons=true&theme=radical)
 
