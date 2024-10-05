@@ -1,6 +1,6 @@
 ## Hey, I'm Shivani Vijay 👋
 
-> _Currently a student diving into web development and programming._ 👩🏻‍💻
+> _Currently a student diving into web development and programming and looking for new opportunities._ 👩🏻‍💻
  
 > **Eager to build new skills and take on exciting projects!** ✨
  
